@@ -65,7 +65,7 @@ export default function UserDashboard() {
         {/* Header Section */}
         <header className="mb-12 text-center">
           <h1 className="bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-5xl font-extrabold tracking-tight text-transparent dark:from-indigo-400 dark:to-violet-400">
-            User Universe123123
+            User Universe
           </h1>
           <p className="mt-4 text-lg text-slate-600 dark:text-slate-400">
             Manage your users with elegance and precision.
