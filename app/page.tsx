@@ -68,7 +68,7 @@ export default function UserDashboard() {
             User Universe
           </h1>
           <p className="mt-4 text-lg text-slate-600 dark:text-slate-400">
-            Manage your users with elegance and precision.
+            Manage your users with elegance and precision.123123
           </p>
         </header>
 
